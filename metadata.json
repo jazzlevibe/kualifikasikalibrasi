@@ -1,0 +1,7 @@
+{
+  "name": "Sistem Kualifikasi Kalibrasi QA",
+  "description": "Sistem Manajemen Kalibrasi dan Kualifikasi Profesional dengan akses berbasis peran, penjadwalan otomatis, jejak audit, dan pelacakan kepatuhan standar industri (GMP/ISO).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
